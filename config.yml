@@ -1,0 +1,12 @@
+brt_dir: "C:/Program Files/University of Malaga/BRT Application/BeRTA.exe"
+brt_send_port: 10017
+brt_ip: 127.0.0.1
+brt_receive_port: 7500
+source1_stim: "C:/GitHubRepos/HRTF_explorer/audio/MusArch_Sample_48kHz_Anechoic_FemaleSpeech.wav"
+source2_stim: "C:/GitHubRepos/HRTF_explorer/audio/MusArch_Sample_48kHz_Anechoic_MaleSpeech.wav"
+hrtf_dir: "C:/GitHubRepos/HRTF_explorer/hrtfs/"
+hrtfs:
+  - "sofa_1.sofa"
+  - "sofa_2.sofa"
+  - "sofa_3.sofa"
+hrtf_resampling_step: 5.0
