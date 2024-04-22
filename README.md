@@ -32,6 +32,9 @@ python hrtf_explorer.py
 ```
 Then select the correct audio device in the BRT application in the pink drop down near the top left of the program.
 
+You are then free to play and change the settings of the source, listener and HRTF. Enjoy!
+
+
 # Acknowledgements
 This work was created whilst part of of the Audio Experience Design Team (https://www.axdesign.co.uk/) at Imperial College London.
 
