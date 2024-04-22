@@ -3,6 +3,14 @@ The HRTF Explorer is a GUI that uses OSC commands to communicate with the Binaur
 
 It is primarily an example of how one would use Python (using OSC commands) to render binaural audio using the BRT.
 
+Python gui:
+
+<img src="./images/gui_screencap.png" height="400">  
+
+BRT application:
+
+<img src="./images/brt_screencap.png" height="400">  
+
 # Installation
 Firstly you should install the latest release of the BRT (currently I have only tested this with v1.3.1) here: https://github.com/GrupoDiana/BRTLibrary/releases/tag/v1.3.1
 
